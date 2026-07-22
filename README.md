@@ -4,15 +4,11 @@
 
 本リポジトリは、ポートフォリオ用のWebページ制作作品として作成し、スポーツボウリング場構想の背景やビジョンをまとめたドキュメントも公開しています。
 
----
-
 ## 🎯 制作目的
 
 - HTML / CSS を用いたWebページ制作のポートフォリオ
 - スポーツボウリング場構想の背景・ビジョンの紹介
 - クラウドファンディングページのデモ制作
-
----
 
 ## ✨ 主なポイント
 
@@ -21,33 +17,23 @@
 - シンプルで読みやすいカードデザイン
 - レスポンシブ対応
 
----
-
 ## 🛠️ 使用技術
 
 - HTML5
 - CSS3
 
----
-
 ## 🌐 Demo
 
 https://junko-takahashi-cloud.github.io/bowling-crowdfunding
-
----
 
 ## 📚 Documents
 
 - [Origin - スポーツボウリング場構想が生まれた理由](docs/origin.md)
 - Vision（準備中）
 
----
-
 ## 🔗 Related Project
 
 - [Bowling Lane Reservation System](https://github.com/Junko-Takahashi-Cloud/bowling-lane-reservation-system)
-
----
 
 ## 📄 License
 
