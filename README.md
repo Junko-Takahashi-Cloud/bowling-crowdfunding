@@ -1,22 +1,54 @@
-# 夢のボウリング場クラウドファンディングページ
+# Bowling Crowdfunding
 
-静かに集中して練習できる「競技者向けボウリング練習場」をテーマにした  
-クラウドファンディング用のデモページです。
+競技者が静かに集中して練習できる「スポーツボウリング場」をテーマにしたクラウドファンディング用デモページです。
 
-## 主なポイント
+本リポジトリは、ポートフォリオ用のWebページ制作作品として作成し、スポーツボウリング場構想の背景やビジョンをまとめたドキュメントも公開しています。
+
+---
+
+## 🎯 制作目的
+
+- HTML / CSS を用いたWebページ制作のポートフォリオ
+- スポーツボウリング場構想の紹介
+- クラウドファンディングページのデモ制作
+
+---
+
+## ✨ 主なポイント
+
 - HTML / CSS のみで構成
 - 外観・内観イメージ画像を使用
-- セクションごとに読みやすいカードデザイン
-- 見出しや余白を整えたシンプルで優しいUI
+- シンプルで読みやすいカードデザイン
+- レスポンシブ対応
 
-## 公開ページ
+---
+
+## 🛠️ 使用技術
+
+- HTML5
+- CSS3
+
+---
+
+## 🌐 Demo
+
 https://junko-takahashi-cloud.github.io/bowling-crowdfunding
 
-## 制作目的
-ポートフォリオ用の Web デザイン・コーディング作品として制作。
+---
 
 ## 📚 Documents
 
 - [Origin - スポーツボウリング場構想が生まれた理由](docs/origin.md)
 - Vision（準備中）
-- Reservation System（準備中）
+
+---
+
+## 🔗 Related Project
+
+- [Bowling Lane Reservation System](https://github.com/Junko-Takahashi-Cloud/bowling-lane-reservation-system)
+
+---
+
+## 📄 License
+
+This project is released under the MIT License.
