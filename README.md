@@ -29,7 +29,7 @@ https://junko-takahashi-cloud.github.io/bowling-crowdfunding
 ## 📚 Documents
 
 - [Origin - スポーツボウリング場構想が生まれた理由](docs/origin.md)
-- Vision（準備中）
+- [Vision - スポーツボウリング場構想が目指す未来](docs/vision.md)
 
 ## 🔗 Related Project
 
